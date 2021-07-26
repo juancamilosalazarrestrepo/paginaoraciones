@@ -1,0 +1,14 @@
+.titulo {
+  color: #F2A81D;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.contenedor {
+  padding: 60px 0;
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  overflow: hidden;
+}
